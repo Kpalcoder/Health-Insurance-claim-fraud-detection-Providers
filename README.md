@@ -1,6 +1,3 @@
-# Health-Insurance-claim-fraud-detection-Providers
-Healthcare  claim fraud detection
-
 # 🏥 Healthcare Insurance Fraud Detection using Machine Learning
 
 ## 📘 Project Overview
